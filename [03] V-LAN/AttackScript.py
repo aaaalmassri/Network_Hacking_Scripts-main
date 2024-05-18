@@ -1,9 +1,7 @@
 #!/usr/bin/env python3.11
-""" Best Way To Predict The Future, Is To Create It
-	Abraham Lincoln
-
+"""
 	This Script Attack Miss-Configured Network Which Use DTP-Enabled
-	"""
+"""
 
 from scapy.all import *
 from time import sleep

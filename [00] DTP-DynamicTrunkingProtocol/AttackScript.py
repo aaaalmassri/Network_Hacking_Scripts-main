@@ -1,8 +1,6 @@
 #!/usr/bin/env python3.11
-""" The Best Way To Predict Future, Is To Create It
-    Abraham Lincoln
-
-    This Script To Perform Network-DOS Attack, By Exploiting DTP Feature On Cisco Switches .
+"""
+This Script To Perform Network-DOS Attack, By Exploiting DTP Feature On Cisco Switches .
 	"""
 
 from scapy.all import sniff as sn
